@@ -1,0 +1,22 @@
+[
+    {
+        "name":"shubham gautam",
+        "age": 12,
+        "Qualification":"MCA"
+    },
+    {
+        "name":"Gajendra Singh",
+        "age": 20,
+        "Qualification":"MBA"
+    },
+    {
+        "name":"Sumit Kumar",
+        "age": 21,
+        "Qualification":"BCA"
+    },
+    {
+        "name":"Yogesh chunni",
+        "age": 22,
+        "Qualification":"B.TECH"
+    }
+]
